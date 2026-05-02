@@ -1,0 +1,14 @@
+/* Full-screen Map Styling */
+#map {
+    height: 100vh; /* 100% of the viewport height */
+    width: 100vw;  /* 100% of the viewport width */
+  }
+  
+  /* Ensure the body has no margin */
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
